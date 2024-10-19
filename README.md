@@ -8,7 +8,7 @@
 Welcome to my GitHub profile! I'm a student and an aspiring **Web Developer** passionate about building sleek, functional websites.
 
 ## Basic Info
-- **Occupation**: Student & Future Web Developer
+- **Occupation**: Student & Future Full-Stack Developer
 - **Location**: Right now, on your screen 📱
 
 ## Skills & Interests
