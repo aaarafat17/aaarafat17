@@ -34,7 +34,7 @@ Skills: C/ C++/Java/MySQL/ JS / HTML / CSS
 - 🤔 I’m looking for help with Gaining Experience  
 - 💬 Ask me about Tech 
 - ⚡ Fun fact: ## Fun Facts - I can make people laugh easily - I find problem-solving  challenging and exciting - My first "Hello World"  felt like a big achievement! - First code? Just getting started! 
-<div style="color: white">
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HASTAR17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hastar17/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/HASTAR17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/a.a.arafat/)  
-</div>
+
 
