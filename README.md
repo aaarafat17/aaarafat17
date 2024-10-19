@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a student and an aspiring **Web Developer** pa
 
 ## Basic Info
 - **Occupation**: Student & Future Full-Stack Developer
-- **Location**: Right now, on your screen 📱
+- **Location**: Dhaka, Bangladesh 🇧🇩
 
 ## Skills & Interests
 - **Currently Learning**: JavaScript
