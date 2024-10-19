@@ -1,6 +1,6 @@
 ### Hi there 👋, It's Abdullah Al Arafat
 #### Coder/Web Developer
-![Coder/Web Developer](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/431663895_3350458598584559_6174519911591650071_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=_u9uukaWfx0Q7kNvgFaniEZ&_nc_zt=23&_nc_ht=scontent.fdac138-1.fna&_nc_gid=A8hI4v-vqFOWjtM3Ry6NZ4o&oh=00_AYDsWjZVQ3OJriKh_qFG9adweZ_WF25ea_EprsZLa1kRGg&oe=6719A16F)
+![Coder/Web Developer]([https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/431663895_3350458598584559_6174519911591650071_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=_u9uukaWfx0Q7kNvgFaniEZ&_nc_zt=23&_nc_ht=scontent.fdac138-1.fna&_nc_gid=A8hI4v-vqFOWjtM3Ry6NZ4o&oh=00_AYDsWjZVQ3OJriKh_qFG9adweZ_WF25ea_EprsZLa1kRGg&oe=6719A16F](https://export-download.canva.com/r_lcI/DAGUByr_lcI/6/0/0001-8021355173385129983.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20241019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241019T025813Z&X-Amz-Expires=49518&X-Amz-Signature=26898c17591bdcceae2254b27e52d02beddeb1b50215f37b639005a57381272d&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Orange%2520Modern%2520Geometric%2520Profile%2520LinkedIn%2520Banner.png&response-expires=Sat%2C%2019%20Oct%202024%2016%3A43%3A31%20GMT))
 
 # About Me
 
