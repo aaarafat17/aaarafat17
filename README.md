@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a student and an aspiring **Web Developer** pa
 I'm on a mission to learn everything about web development. From HTML, CSS, and JavaScript to frameworks and beyond. Join me as I grow and share my projects here!
 
 - 🔭 I’m currently working on Web Development And CP 
-- 🌱 I’m currently learning Javascript & C++ 
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Gaining Experience  
 - 💬 Ask me about Tech
