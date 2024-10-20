@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a student and an aspiring **Web Developer** pa
 - **Projects**: Building personal projects to sharpen my skills
 - **Goals**: To become a skilled developer and build user-friendly web applications
 ## Fun Facts
-- I can make people laugh easily
 - I find problem-solving  challenging and exciting
 - My first "Hello World"  felt like a big achievement!
 - First code? Just getting started!
