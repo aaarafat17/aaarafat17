@@ -12,6 +12,24 @@ Welcome to my GitHub profile! I'm a student and an aspiring **Web Developer** pa
 - **Occupation**: Student & Future Full-Stack Developer
 - **Location**: Dhaka, Bangladesh 🇧🇩
 
+  ## 🎓 Education
+
+- **B.Sc. in Computer Science & Engineering**  
+  Green University of Bangladesh
+
+- **Higher Secondary School Certificate (Science)**  
+  Motijheel Govt. Boys' College
+
+- **Secondary School Certificate (Science)**  
+  Motijheel Govt. Boys' High School
+
+## 🌐 Languages
+
+- **Bengali**: Native
+- **English**: Proficient
+- **Hindi/Urdu**: Conversational
+- **Arabic**: Reading ability
+
 ## Skills & Interests
 - **Currently Learning**: JavaScript
 - **Interested in**: Frontend and Backend development
