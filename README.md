@@ -1,7 +1,7 @@
 ![Orange Modern Geometric Profile LinkedIn Banner](https://github.com/user-attachments/assets/3995fa0e-d586-4003-81ec-83af266dcd9b)
 
 
-### Hi there, Assalamualaikum...🙋🏻 It's Abdullah Sardar🤗
+### Hi there, Assalamualaikum...🙋🏻 It's Abdullah🤗
 #### Developer/Programmer
 
 # About Me
