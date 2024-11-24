@@ -1,4 +1,4 @@
-![Coder/Web Developer](![Orange Modern Geometric Profile LinkedIn Banner](https://github.com/user-attachments/assets/3995fa0e-d586-4003-81ec-83af266dcd9b))
+![Orange Modern Geometric Profile LinkedIn Banner](https://github.com/user-attachments/assets/3995fa0e-d586-4003-81ec-83af266dcd9b)
 
 
 ### Hi there, Assalamualaikum...🙋🏻 It's Abdullah Al Arafat🤗
