@@ -1,4 +1,5 @@
-![Coder/Web Developer](https://export-download.canva.com/r_lcI/DAGUByr_lcI/6/0/0001-8021355173385129983.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20241019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241019T025813Z&X-Amz-Expires=49518&X-Amz-Signature=26898c17591bdcceae2254b27e52d02beddeb1b50215f37b639005a57381272d&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Orange%2520Modern%2520Geometric%2520Profile%2520LinkedIn%2520Banner.png&response-expires=Sat%2C%2019%20Oct%202024%2016%3A43%3A31%20GMT)
+![Coder/Web Developer](![Orange Modern Geometric Profile LinkedIn Banner](https://github.com/user-attachments/assets/3995fa0e-d586-4003-81ec-83af266dcd9b))
+
 
 ### Hi there, Assalamualaikum...🙋🏻 It's Abdullah Al Arafat🤗
 #### Developer/Programmer
