@@ -10,7 +10,7 @@
 Welcome to my GitHub profile! I'm a student and an aspiring **Web Developer** passionate about building sleek, functional websites.
 
 ## Basic Info
-- **Occupation**: Student & Future Full-Stack Developer
+- **Occupation**: Student
 - **Location**: Dhaka, Bangladesh 🇧🇩
 
 ## Education
