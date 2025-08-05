@@ -1,4 +1,4 @@
-[![Orange Modern Geometric Profile LinkedIn Banner]([[https://github.com/user-attachments/assets/3995fa0e-d586-4003-81ec-83af266dcd9b](https://github.com/aaarafat17/amazon-website-clone/blob/1e13cc4656d66672752b24650f4803a51b883ffc/Orange%20Modern%20Geometric%20Profile%20LinkedIn%20Banner-2.mp4)](https://github.com/aaarafat17/amazon-website-clone/blob/b21886976449c423036ff7596bf4ad859a564762/Orange%20Modern%20Geometric%20Profile%20LinkedIn%20Banner-2.gif))](https://github.com/aaarafat17/amazon-website-clone/blob/b21886976449c423036ff7596bf4ad859a564762/Orange%20Modern%20Geometric%20Profile%20LinkedIn%20Banner-2.gif)
+[[[![Orange Modern Geometric Profile LinkedIn Banner](https://github.com/aaarafat17/amazon-website-clone/blob/b21886976449c423036ff7596bf4ad859a564762/Orange%20Modern%20Geometric%20Profile%20LinkedIn%20Banner-2.gif)
 
 
 ### Hi there, Assalamualaikum...🙋🏻 It's Abdullah🤗
